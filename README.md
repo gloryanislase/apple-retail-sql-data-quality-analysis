@@ -85,7 +85,7 @@ Setiap temuan divalidasi dengan query diagnostik (menghitung skala/proporsi) seb
 
 | Pertanyaan | Jawaban Singkat |
 |---|---|
-| [Kategori paling pesat tumbuh?](./queries/06_analysis_sales.sql) | Tidak ada yang dominan; semua kategori relatif stabil (growth -0.31% s/d +0.85%) |
+| Kategori paling pesat tumbuh? | Tidak ada yang dominan; semua kategori relatif stabil (growth -0.31% s/d +0.85%) |
 | Bulan puncak penjualan global? | Maret (tertinggi), Februari (terendah), musiman tidak ekstrem |
 | Beda pola musiman antar hemisphere? | Tidak dapat disimpulkan — representasi data tidak seimbang (1 negara selatan) |
 | Toko dengan tren menurun? | 26 dari 75 toko (34.7%) — pola sistemik, bukan kasus terisolasi |
