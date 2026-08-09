@@ -1,0 +1,1 @@
+Create DATABASE apple_retail_sales;
