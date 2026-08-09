@@ -6,14 +6,12 @@ Analisis data penjualan ritel Apple menggunakan SQL untuk menjawab 12 pertanyaan
 
 ---
 
-## 📸 Sekilas Hasil
+## 📸 Key Highlights
 
 <p align="center">
   <img src="./assets/total_revenue_by_category_product.png" width="48%" />
   <img src="./assets/Global_Monthly_Sales.png" width="48%" />
 </p>
-
-> Lihat [Ringkasan Temuan Data Quality](#-ringkasan-temuan-data-quality) untuk detail.
 
 ---
 
