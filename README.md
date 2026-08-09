@@ -44,7 +44,6 @@ Apple_Retail_Sales_Project/
 ├── assets/                                # chart untuk README
 │   ├── 01_revenue_by_category.png
 │   ├── 02_monthly_trend.png
-│   └── 03_data_quality_issues.png
 ├── queries/
 │   ├── 01_setup_database.sql              # Setup database & konfigurasi awal
 │   ├── 02_create_tables.sql               # Pembuatan skema tabel
@@ -54,7 +53,7 @@ Apple_Retail_Sales_Project/
 │   ├── 06_analysis_sales.sql              # Analisis 1-4: Sales Performance
 │   ├── 07_product_lifecycle.sql           # Analisis 5-8: Product Lifecycle
 │   └── 08_warranty_analysis.sql           # Analisis 9-12: Warranty/Risk Evaluation
-└── results/                                # sampel hasil query (bukti pendukung, bukan seluruh output)
+└── results/                               # sampel hasil query (bukti pendukung, bukan seluruh output)
     ├── revenue_by_category.csv
     ├── monthly_trend_global.csv
     ├── declining_stores.csv
