@@ -55,11 +55,11 @@ Apple_Retail_Sales_Project/
 │   ├── 07_product_lifecycle.sql           # Analisis 5-8: Product Lifecycle
 │   └── 08_warranty_analysis.sql           # Analisis 9-12: Warranty/Risk Evaluation
 └── results/                                # sampel hasil query (bukti pendukung, bukan seluruh output)
-    ├── 01a_revenue_by_category.csv
-    ├── 02a_monthly_trend_global.csv
-    ├── 03_declining_stores.csv
-    ├── 07_product_cannibalization.csv
-    └── 12a_launch_batch_quality.csv
+    ├── revenue_by_category.csv
+    ├── monthly_trend_global.csv
+    ├── declining_stores.csv
+    ├── product_cannibalization.csv
+    └── launch_batch_quality.csv
 ```
 
 Setiap file `.sql` pada folder `queries/` memuat beberapa query yang dipisahkan komentar section (misal `-- Analysis 1a`), mengikuti urutan pertanyaan bisnis pada bagiannya masing-masing. File `01-05` mencakup tahap setup, import, dan pembersihan data sebelum masuk ke tahap analisis (`06-08`).
@@ -271,11 +271,11 @@ Beberapa hasil query disertakan sebagai bukti pendukung temuan utama (bukan selu
 
 | File | Analisis | Isi |
 |---|---|---|
-| [`01a_revenue_by_category.csv`](./results/01a_revenue_by_category.csv) | 1a | Total revenue per kategori produk |
-| [`02a_monthly_trend_global.csv`](./results/02a_monthly_trend_global.csv) | 2a | Tren volume penjualan bulanan global |
-| [`03_declining_stores.csv`](./results/03_declining_stores.csv) | 3 | 26 toko dengan tren penurunan 2 tahun berturut-turut |
-| [`07_product_cannibalization.csv`](./results/07_product_cannibalization.csv) | 7 | Daftar lengkap produk & besaran efek kanibalisasi |
-| [`12a_launch_batch_quality.csv`](./results/12a_launch_batch_quality.csv) | 12a | Claim ratio per produk, cohort 30-hari vs 3-bulan |
+| [`revenue_by_category.csv`](./results/revenue_by_category.csv) | 1a | Total revenue per kategori produk |
+| [`monthly_trend_global.csv`](./results/monthly_trend_global.csv) | 2a | Tren volume penjualan bulanan global |
+| [`declining_stores.csv`](./results/declining_stores.csv) | 3 | 26 toko dengan tren penurunan 2 tahun berturut-turut |
+| [`product_cannibalization.csv`](./results/product_cannibalization.csv) | 7 | Daftar lengkap produk & besaran efek kanibalisasi |
+| [`launch_batch_quality.csv`](./results/launch_batch_quality.csv) | 12a | Claim ratio per produk, cohort 30-hari vs 3-bulan |
 
 ---
 
