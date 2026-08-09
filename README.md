@@ -1,4 +1,4 @@
-# 🍎 Apple Retail Sales Analysis — SQL Portfolio Project
+# Apple Retail Sales Analysis — SQL Portfolio Project
 
 Analisis data penjualan ritel Apple menggunakan SQL untuk menjawab 12 pertanyaan bisnis di tiga area: kinerja penjualan, siklus hidup produk, dan risiko garansi.
 
@@ -8,13 +8,12 @@ Analisis data penjualan ritel Apple menggunakan SQL untuk menjawab 12 pertanyaan
 
 ## 📸 Sekilas Hasil
 
-<img src="./assets/total_revenue_by_category_product.png" width="720">
+<p align="center">
+  <img src="./assets/total_revenue_by_category_product.png" width="48%" />
+  <img src="./assets/Global_Monthly_Sales.png" width="48%" />
+</p>
 
-<img src="./assets/Global Monthly Sales.png" width="720">
-
-<img src="./assets/03_data_quality_issues.png" width="720">
-
-> Grafik ketiga sengaja ditampilkan sejajar dengan grafik hasil bisnis lainnya — validasi kualitas data adalah bagian inti dari proses analisis ini, bukan catatan kaki. Lihat [Ringkasan Temuan Data Quality](#-ringkasan-temuan-data-quality) untuk detail.
+> Lihat [Ringkasan Temuan Data Quality](#-ringkasan-temuan-data-quality) untuk detail.
 
 ---
 
