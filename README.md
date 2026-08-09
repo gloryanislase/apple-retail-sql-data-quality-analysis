@@ -1,11 +1,11 @@
-# Apple Retail Sales Analysis — SQL Portfolio Project
+# 📊 Apple Retail Sales Analysis — SQL Portfolio Project
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-005571?style=for-the-badge)
 
 Analisis data penjualan ritel Apple menggunakan SQL untuk menjawab 12 pertanyaan bisnis di tiga area: kinerja penjualan, siklus hidup produk, dan risiko garansi.
 
-**Sumber data:** [Apple Retail Sales Dataset](https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset) (Kaggle) · **Tools:** SQL (PostgreSQL)
+**Sumber data:** [Apple Retail Sales Dataset](https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset) (Kaggle)
 
 ---
 
