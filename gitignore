@@ -1,0 +1,29 @@
+# Raw dataset (sumber: Kaggle, tidak perlu diupload - link tersedia di README)
+data/
+
+# Seluruh hasil query mentah (hanya 5 file terkurasi di results/ yang diupload)
+output_data/
+
+# File/folder proyek lain di workspace yang sama (tidak relevan dengan repo ini)
+Walmart_Project/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Environment & credentials (jika ada koneksi database dengan kredensial)
+.env
+*.env
+config.local.*
+
+# Database lokal (jika pakai SQLite untuk testing)
+*.sqlite
+*.db
+
+# Temporary/scratch files
+*.tmp
+*.bak
