@@ -2,7 +2,7 @@
 
 Analisis data penjualan ritel Apple menggunakan SQL untuk menjawab 12 pertanyaan bisnis di tiga area: kinerja penjualan, siklus hidup produk, dan risiko garansi.
 
-**Sumber data:** [Apple Retail Sales Dataset](#) (Kaggle) · **Tools:** SQL (PostgreSQL)
+**Sumber data:** [Apple Retail Sales Dataset](https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset) (Kaggle) · **Tools:** SQL (PostgreSQL)
 
 ---
 
