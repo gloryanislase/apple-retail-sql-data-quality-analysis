@@ -85,7 +85,7 @@ Setiap temuan divalidasi dengan query diagnostik (menghitung skala/proporsi) seb
 
 | Pertanyaan | Jawaban Singkat |
 |---|---|
-| Kategori paling pesat tumbuh? | Tidak ada yang dominan; semua kategori relatif stabil (growth -0.31% s/d +0.85%) |
+| [Kategori paling pesat tumbuh?](./queries/06_analysis_sales.sql) | Tidak ada yang dominan; semua kategori relatif stabil (growth -0.31% s/d +0.85%) |
 | Bulan puncak penjualan global? | Maret (tertinggi), Februari (terendah), musiman tidak ekstrem |
 | Beda pola musiman antar hemisphere? | Tidak dapat disimpulkan — representasi data tidak seimbang (1 negara selatan) |
 | Toko dengan tren menurun? | 26 dari 75 toko (34.7%) — pola sistemik, bukan kasus terisolasi |
@@ -266,7 +266,7 @@ Juga ditemukan **2 bug query awal**: kondisi join salah (`s.store_id = s.store_i
 
 ## 📄 Sampel Hasil Query (`results/`)
 
-Beberapa hasil query disertakan sebagai bukti pendukung temuan utama (bukan seluruh output — daftar lengkap 12 analisis ada di teks di atas):
+Beberapa hasil query disertakan sebagai bukti pendukung temuan utama:
 
 | File | Analisis | Isi |
 |---|---|---|
@@ -283,7 +283,3 @@ Beberapa hasil query disertakan sebagai bukti pendukung temuan utama (bukan selu
 1. Jalankan `01_setup_database.sql` hingga `05_data_cleaning.sql` secara berurutan untuk setup database, membuat skema tabel, mengimpor data mentah, verifikasi, dan pembersihan data awal.
 2. Jalankan query analisis pada `06_analysis_sales.sql` → `07_product_lifecycle.sql` → `08_warranty_analysis.sql` sesuai urutan bagian.
 3. Setiap file analisis berisi beberapa query dipisah komentar section — jalankan satu per satu sesuai kebutuhan.
-
----
-
-*Dibuat sebagai bagian dari portofolio Data Analyst. Feedback dan diskusi sangat terbuka.*
