@@ -8,9 +8,9 @@ Analisis data penjualan ritel Apple menggunakan SQL untuk menjawab 12 pertanyaan
 
 ## 📸 Sekilas Hasil
 
-<img src="./assets/01_revenue_by_category.png" width="720">
+<img src="./assets/total_revenue_by_category_product.png" width="720">
 
-<img src="./assets/02_monthly_trend.png" width="720">
+<img src="./assets/Global Monthly Sales.png" width="720">
 
 <img src="./assets/03_data_quality_issues.png" width="720">
 
