@@ -4,9 +4,6 @@ data/
 # Seluruh hasil query mentah (hanya 5 file terkurasi di results/ yang diupload)
 output_data/
 
-# File/folder proyek lain di workspace yang sama (tidak relevan dengan repo ini)
-Walmart_Project/
-
 # OS files
 .DS_Store
 Thumbs.db
