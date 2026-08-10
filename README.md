@@ -354,7 +354,3 @@ Terbuka untuk diskusi, feedback, atau peluang kolaborasi terkait proyek ini.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloryanisveronicalase)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gloryanislase@gmail.com)
-
----
-
-*Dibuat sebagai bagian dari portofolio Data Analyst.*
