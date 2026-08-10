@@ -1,4 +1,4 @@
-# 📊 Apple Retail Sales Analysis — SQL Portfolio Project
+# 📊 Apple Retail SQL Data Quality Analysis
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-005571?style=for-the-badge)
