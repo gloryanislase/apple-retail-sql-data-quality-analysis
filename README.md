@@ -27,9 +27,10 @@ Analisis data penjualan ritel Apple menggunakan SQL untuk menjawab 12 pertanyaan
 
 ## 📸 Key Highlights
 
-<img src="./assets/total_revenue_by_category_product.png" alt="Grafik total revenue per kategori produk Apple, Tablet tertinggi diikuti Accessories dan Smartphone" width="720">
-
-<img src="./assets/global_monthly_sales.png" alt="Grafik tren volume penjualan bulanan global, Maret sebagai bulan puncak dan Februari terendah" width="720">
+<p align="center">
+  <img src="./assets/total_revenue_by_category_product.png" width="48%" />
+  <img src="./assets/global_monthly_sales.png" width="48%" />
+</p>
 
 ---
 
