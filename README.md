@@ -27,9 +27,10 @@ SQL-based analysis of Apple retail sales data, answering 12 business questions a
 
 ## 📸 Key Highlights
 
-<img src="./assets/total_revenue_by_category_product.png" alt="Chart of total revenue by Apple product category, with Tablet leading, followed by Accessories and Smartphone" width="720">
-
-<img src="./assets/global_monthly_sales.png" alt="Chart of global monthly sales volume trend, with March as the peak month and February the lowest" width="720">
+<p align="center">
+  <img src="./assets/total_revenue_by_category_product.png" width="48%" />
+  <img src="./assets/global_monthly_sales.png" width="48%" />
+</p>
 
 ---
 
@@ -351,9 +352,5 @@ A few query results are included as supporting evidence for the key findings:
 
 Open to discussion, feedback, or collaboration opportunities related to this project.
 
-- **LinkedIn:** [linkedin.com/in/your-name](https://linkedin.com/in/your-name) *(replace with your profile link)*
-- **Email:** your.name@email.com *(replace with your email)*
-
----
-
-*Built as part of a Data Analyst portfolio.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloryanisveronicalase)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gloryanislase@gmail.com)
